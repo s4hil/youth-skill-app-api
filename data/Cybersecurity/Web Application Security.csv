@@ -1,0 +1,16 @@
+Unnamed: 0,Sector,CourseName,Duration,TopicName,URL,Module,ModuleNo,Minimum Education,Language
+12543,Cybersecurity,Web Application Security,22hrs 21min,Introduction to Web Application Security,https://www.youtube.com/watch?v=K1S3kOeRmLg,Module 1: Introduction to Web App Sec,1,12th,English/Hindi
+12544,Cybersecurity,Web Application Security,,How to Prepare Web Application Security LAB | Lab Setup | WebGoat,https://www.youtube.com/watch?v=aMXPUo010K8,Module 1: Web App Sec Lab Setup,1,12th,English/Hindi
+12545,Cybersecurity,Web Application Security,,HTTP Basics | How to install OWASP Zap proxy | WebGoat Lab,https://www.youtube.com/watch?v=pHHjkIajHiE,Module 2: HTTP Basics,2,12th,English/Hindi
+12546,Cybersecurity,Web Application Security,,HTTP Proxies | WebGoat Lab,https://www.youtube.com/watch?v=LjPMTbt9aAE,Module 2: HTTP Proxies & WebGoat,2,12th,English/Hindi
+12547,Cybersecurity,Web Application Security,,How to install and use Burpsuite | WebGoat Lab,https://www.youtube.com/watch?v=gCIUEpvuSKA,Module 3: BurpSuite & WebGoat,3,12th,English/Hindi
+12548,Cybersecurity,Web Application Security,,Developer Tools | WebGoat Lab,https://www.youtube.com/watch?v=G5Wiq-z9yMI,Module 3: Developer Tools & WebGoat,3,12th,English/Hindi
+12549,Cybersecurity,Web Application Security,,CIA Triad | WebGoat,https://www.youtube.com/watch?v=9P-ej26cOyc,Module 4: CIA Triad & Crypto Basics,4,12th,English/Hindi
+12550,Cybersecurity,Web Application Security,,Crypto Basic | Base64 encoding | WebGoat,https://www.youtube.com/watch?v=zNKIQYSeTQA,Module 4: Base64 Encoding & WebGoat,4,12th,English/Hindi
+12551,Cybersecurity,Web Application Security,,Crypto Basic | URL | HTML | XOR encoding | WebGoat Lab,https://www.youtube.com/watch?v=IfrHAouaqg8,"Module 5: URL, HTML, XOR Encoding",5,12th,English/Hindi
+12552,Cybersecurity,Web Application Security,,Crypto Basic | Hashing | Salt Hashing |  WebGoat Lab,https://www.youtube.com/watch?v=mmMNGZchyDg,Module 5: Hashing & Salt Hashing,5,12th,English/Hindi
+12553,Cybersecurity,Web Application Security,,Crypto Basic | RSA Signature | WebGoat Lab,https://www.youtube.com/watch?v=szuW_3DhXdU,Module 6: RSA Signatures & WebGoat,6,12th,English/Hindi
+12554,Cybersecurity,Web Application Security,,SQL Basic | DML | DDL | DCL |TCL | SQL Injection intro | WebGoat,https://www.youtube.com/watch?v=4O3SJCB3Kg8,Module 6: SQL Basics & Injection Intro,6,12th,English/Hindi
+12555,Cybersecurity,Web Application Security,,SQL Injection Basic intro | WebGoat,https://www.youtube.com/watch?v=wx3IvK8IJQI,Module 7: SQL Injection Basics,7,12th,English/Hindi
+12556,Cybersecurity,Web Application Security,,Types of SQL Injection | SQL Injection Advance | WebGoat,https://www.youtube.com/watch?v=kNeGnA8CQP0,Module 7: Types of SQL Injection,7,12th,English/Hindi
+12557,Cybersecurity,Web Application Security,,SQL Injection Advance Lab | WebGoat,https://www.youtube.com/watch?v=kiVD-4cIIsg,Module 8: Advanced SQL Injection,8,12th,English/Hindi

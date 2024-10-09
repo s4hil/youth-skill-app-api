@@ -1,0 +1,85 @@
+Unnamed: 0,Sector,CourseName,Duration,TopicName,URL,Module,Minimum Education,Language
+283,Computer Science Engineering,Algorithms,29hrs 13min,1. Introduction to Algorithms,https://www.youtube.com/watch?v=0IAPZzGSbME,Module 1: Introduction to Algorithms,12th,English/Hindi
+284,Computer Science Engineering,Algorithms,,1.1 Priori Analysis and Posteriori Testing,https://www.youtube.com/watch?v=-JTq1BFBwmo,Module 1: Introduction to Algorithms,12th,English/Hindi
+285,Computer Science Engineering,Algorithms,,1.2 Characteristics of Algorithm,https://www.youtube.com/watch?v=FbYzBWdhMb0,Module 1: Introduction to Algorithms,12th,English/Hindi
+286,Computer Science Engineering,Algorithms,,1.3 How Write and Analyze Algorithm,https://www.youtube.com/watch?v=xGYsEqe9Vl0,Module 1: Introduction to Algorithms,12th,English/Hindi
+287,Computer Science Engineering,Algorithms,,1.4 Frequency Count Method,https://www.youtube.com/watch?v=1U3Uwct45IY,Module 1: Introduction to Algorithms,12th,English/Hindi
+288,Computer Science Engineering,Algorithms,,1.5.1 Time Complexity #1,https://www.youtube.com/watch?v=9TlHvipP5yA,Module 1: Introduction to Algorithms,12th,English/Hindi
+289,Computer Science Engineering,Algorithms,,1.5.2 Time Complexity Example #2,https://www.youtube.com/watch?v=9SgLBjXqwd4,Module 1: Introduction to Algorithms,12th,English/Hindi
+290,Computer Science Engineering,Algorithms,,1.5.3 Time Complexity of While and if #3,https://www.youtube.com/watch?v=p1EnSvS3urU,Module 1: Introduction to Algorithms,12th,English/Hindi
+291,Computer Science Engineering,Algorithms,,1.6 Classes of functions,https://www.youtube.com/watch?v=w7t4_JUUTeg,Module 1: Introduction to Algorithms,12th,English/Hindi
+292,Computer Science Engineering,Algorithms,,1.7 Compare Class of Functions,https://www.youtube.com/watch?v=5v-tKX2uRAk,Module 1: Introduction to Algorithms,12th,English/Hindi
+293,Computer Science Engineering,Algorithms,,1.8.1 Asymptotic Notations Big Oh - Omega - Theta #1,https://www.youtube.com/watch?v=A03oI0znAoc,Module 1: Introduction to Algorithms,12th,English/Hindi
+294,Computer Science Engineering,Algorithms,,1.8.2 Asymptotic Notations - Big Oh - Omega - Theta #2,https://www.youtube.com/watch?v=Nd0XDY-jVHs,Module 1: Introduction to Algorithms,12th,English/Hindi
+295,Computer Science Engineering,Algorithms,,1.9 Properties of Asymptotic Notations,https://www.youtube.com/watch?v=NI4OKSvGAgM,Module 1: Introduction to Algorithms,12th,English/Hindi
+296,Computer Science Engineering,Algorithms,,1.10.1 Comparison of Functions #1,https://www.youtube.com/watch?v=mwN18xfwNhk,Module 1: Introduction to Algorithms,12th,English/Hindi
+297,Computer Science Engineering,Algorithms,,1.10.2 Comparison of Functions #2,https://www.youtube.com/watch?v=WlBBTSL0ZRc,Module 1: Introduction to Algorithms,12th,English/Hindi
+298,Computer Science Engineering,Algorithms,,1.11 Best Worst and Average Case Analysis,https://www.youtube.com/watch?v=lj3E24nnPjI,Module 1: Introduction to Algorithms,12th,English/Hindi
+299,Computer Science Engineering,Algorithms,,1.12 Disjoint Sets Data Structure - Weighted Union and Collapsing Find,https://www.youtube.com/watch?v=wU6udHRIkcc,Module 2: Divide and Conquer,12th,English/Hindi
+300,Computer Science Engineering,Algorithms,,2 Divide And Conquer,https://www.youtube.com/watch?v=2Rr2tW9zvRg,Module 2: Divide and Conquer,12th,English/Hindi
+301,Computer Science Engineering,Algorithms,,2.1.1 Recurrence Relation (T(n)= T(n-1) + 1) #1,https://www.youtube.com/watch?v=4V30R3I1vLI,Module 2: Divide and Conquer,12th,English/Hindi
+302,Computer Science Engineering,Algorithms,,2.1.2 Recurrence Relation (T(n)= T(n-1) + n) #2,https://www.youtube.com/watch?v=IawM82BQ4II,Module 2: Divide and Conquer,12th,English/Hindi
+303,Computer Science Engineering,Algorithms,,2.1.3 Recurrence Relation (T(n)= T(n-1) + log n) #3,https://www.youtube.com/watch?v=MhT7XmxhaCE,Module 2: Divide and Conquer,12th,English/Hindi
+304,Computer Science Engineering,Algorithms,,2.1.4 Recurrence Relation T(n)=2 T(n-1)+1  #4,https://www.youtube.com/watch?v=JvcqtZk2mng,Module 2: Divide and Conquer,12th,English/Hindi
+305,Computer Science Engineering,Algorithms,,2.2 Masters Theorem Decreasing Function,https://www.youtube.com/watch?v=CyknhZbfMqc,Module 2: Divide and Conquer,12th,English/Hindi
+306,Computer Science Engineering,Algorithms,,2.3.1 Recurrence Relation Dividing Function T(n)=T(n/2)+1 #1,https://www.youtube.com/watch?v=8gt0D0IqU5w,Module 2: Divide and Conquer,12th,English/Hindi
+307,Computer Science Engineering,Algorithms,,2.3.2 Recurrence Relation Dividing [ T(n)=T(n/2)+ n].   #2,https://www.youtube.com/watch?v=XcZw01FuH18,Module 2: Divide and Conquer,12th,English/Hindi
+308,Computer Science Engineering,Algorithms,,2.3.3 Recurrence Relation [ T(n)= 2T(n/2) +n]  #3,https://www.youtube.com/watch?v=1K9ebQJosvo,Module 2: Divide and Conquer,12th,English/Hindi
+309,Computer Science Engineering,Algorithms,,2.4.1 Masters Theorem in Algorithms for Dividing Function #1,https://www.youtube.com/watch?v=OynWkEj0S-s,Module 2: Divide and Conquer,12th,English/Hindi
+310,Computer Science Engineering,Algorithms,,2.4.2 Examples for Master Theorem #2,https://www.youtube.com/watch?v=kGcO-nAm9Vc,Module 2: Divide and Conquer,12th,English/Hindi
+311,Computer Science Engineering,Algorithms,,2.5 Root function (Recurrence Relation),https://www.youtube.com/watch?v=9rVuyjxzwgM,Module 2: Divide and Conquer,12th,English/Hindi
+312,Computer Science Engineering,Algorithms,,2.6.1 Binary Search Iterative Method,https://www.youtube.com/watch?v=C2apEw9pgtw,Module 2: Divide and Conquer,12th,English/Hindi
+313,Computer Science Engineering,Algorithms,,2.6.2 Binary Search Recursive Method,https://www.youtube.com/watch?v=uEUXGcc2VXM,Module 2: Divide and Conquer,12th,English/Hindi
+314,Computer Science Engineering,Algorithms,,2.6.3 Heap - Heap Sort - Heapify - Priority Queues,https://www.youtube.com/watch?v=HqPJF2L5h9U,Module 2: Divide and Conquer,12th,English/Hindi
+315,Computer Science Engineering,Algorithms,,2.7.1  Two Way MergeSort - Iterative method,https://www.youtube.com/watch?v=6pV2IF0fgKY,Module 3: Greedy Algorithms,12th,English/Hindi
+316,Computer Science Engineering,Algorithms,,2.7.2.  Merge Sort Algorithm,https://www.youtube.com/watch?v=mB5HXBb_HY8,Module 3: Greedy Algorithms,12th,English/Hindi
+317,Computer Science Engineering,Algorithms,,2.7.3 MergeSort in-depth Analysis,https://www.youtube.com/watch?v=ak-pz7tS5DE,Module 3: Greedy Algorithms,12th,English/Hindi
+318,Computer Science Engineering,Algorithms,,2.8.1  QuickSort Algorithm,https://www.youtube.com/watch?v=7h1s2SojIRw,Module 3: Greedy Algorithms,12th,English/Hindi
+319,Computer Science Engineering,Algorithms,,2.8.2 QuickSort Analysis,https://www.youtube.com/watch?v=-qOVVRIZzao,Module 3: Greedy Algorithms,12th,English/Hindi
+320,Computer Science Engineering,Algorithms,,2.9 Strassens Matrix Multiplication,https://www.youtube.com/watch?v=0oJyNmEbS4w,Module 3: Greedy Algorithms,12th,English/Hindi
+321,Computer Science Engineering,Algorithms,,3. Greedy Method -  Introduction,https://www.youtube.com/watch?v=ARvQcqJ_-NY,Module 3: Greedy Algorithms,12th,English/Hindi
+322,Computer Science Engineering,Algorithms,,3.1 Knapsack Problem - Greedy Method,https://www.youtube.com/watch?v=oTTzNMHM05I,Module 4: Dynamic Programming,12th,English/Hindi
+323,Computer Science Engineering,Algorithms,,3.2 Job Sequencing with Deadlines - Greedy Method,https://www.youtube.com/watch?v=zPtI8q9gvX8,Module 4: Dynamic Programming,12th,English/Hindi
+324,Computer Science Engineering,Algorithms,,3.3 Optimal Merge Pattern - Greedy Method,https://www.youtube.com/watch?v=HHIc5JZyenI,Module 4: Dynamic Programming,12th,English/Hindi
+325,Computer Science Engineering,Algorithms,,3.4 Huffman Coding - Greedy Method,https://www.youtube.com/watch?v=co4_ahEDCho,Module 4: Dynamic Programming,12th,English/Hindi
+326,Computer Science Engineering,Algorithms,,3.5 Prims and Kruskals Algorithms - Greedy Method,https://www.youtube.com/watch?v=4ZlRH0eK-qQ,Module 4: Dynamic Programming,12th,English/Hindi
+327,Computer Science Engineering,Algorithms,,3.6 Dijkstra Algorithm - Single Source Shortest Path - Greedy Method,https://www.youtube.com/watch?v=XB4MIexjvY0,Module 4: Dynamic Programming,12th,English/Hindi
+328,Computer Science Engineering,Algorithms,,4 Principle  of Optimality  - Dynamic Programming introduction,https://www.youtube.com/watch?v=5dRGRueKU3M,Module 4: Dynamic Programming,12th,English/Hindi
+329,Computer Science Engineering,Algorithms,,4.1 MultiStage Graph - Dynamic Programming,https://www.youtube.com/watch?v=9iE9Mj4m8jk,Module 4: Dynamic Programming,12th,English/Hindi
+330,Computer Science Engineering,Algorithms,,4.1.1 MultiStage Graph (Program) - Dynamic Programming,https://www.youtube.com/watch?v=FcScLYJI42E,Module 4: Dynamic Programming,12th,English/Hindi
+331,Computer Science Engineering,Algorithms,,4.2 All Pairs Shortest Path (Floyd-Warshall) - Dynamic Programming,https://www.youtube.com/watch?v=oNI0rf2P9gE,Module 4: Dynamic Programming,12th,English/Hindi
+332,Computer Science Engineering,Algorithms,,4.3 Matrix Chain Multiplication - Dynamic Programming,https://www.youtube.com/watch?v=prx1psByp7U,Module 4: Dynamic Programming,12th,English/Hindi
+333,Computer Science Engineering,Algorithms,,[New] Matrix Chain Multiplication using Dynamic Programming Formula,https://www.youtube.com/watch?v=_WncuhSJZyA,Module 4: Dynamic Programming,12th,English/Hindi
+334,Computer Science Engineering,Algorithms,,4.3.1 Matrix Chain Multiplication (Program) - Dynamic Programming,https://www.youtube.com/watch?v=eKkXU3uu2zk,Module 4: Dynamic Programming,12th,English/Hindi
+335,Computer Science Engineering,Algorithms,,4.4 Bellman Ford Algorithm - Single Source Shortest Path - Dynamic Programming,https://www.youtube.com/watch?v=FtN3BYH2Zes,Module 5: Graph Algorithms,12th,English/Hindi
+336,Computer Science Engineering,Algorithms,,4.5 0/1 Knapsack - Two Methods - Dynamic Programming,https://www.youtube.com/watch?v=nLmhmB6NzcM,Module 5: Graph Algorithms,12th,English/Hindi
+337,Computer Science Engineering,Algorithms,,4.5.1 0/1 Knapsack Problem (Program) - Dynamic Programming,https://www.youtube.com/watch?v=zRza99HPvkQ,Module 6: Backtracking,12th,English/Hindi
+338,Computer Science Engineering,Algorithms,,4.6 Optimal Binary Search Tree (Successful Search Only) - Dynamic Programming,https://www.youtube.com/watch?v=vLS-zRCHo-Y,Module 6: Backtracking,12th,English/Hindi
+339,Computer Science Engineering,Algorithms,,4.6.2 [New] Optimal Binary Search Tree Successful and Unsuccessful Probability - Dynamic Programming,https://www.youtube.com/watch?v=wAy6nDMPYAE,Module 6: Backtracking,12th,English/Hindi
+340,Computer Science Engineering,Algorithms,,4.7 [New] Traveling Salesman Problem - Dynamic Programming using Formula,https://www.youtube.com/watch?v=Q4zHb-Swzro,Module 6: Backtracking,12th,English/Hindi
+341,Computer Science Engineering,Algorithms,,4.8 Reliability Design - Dynamic Programming,https://www.youtube.com/watch?v=uJOmqBwENB8,Module 7: Branch and Bound,12th,English/Hindi
+342,Computer Science Engineering,Algorithms,,4.9 Longest Common Subsequence (LCS)  - Recursion and Dynamic Programming,https://www.youtube.com/watch?v=sSno9rV8Rhg,Module 7: Branch and Bound,12th,English/Hindi
+343,Computer Science Engineering,Algorithms,,5.1 Graph Traversals - BFS & DFS -Breadth First Search and Depth First Search,https://www.youtube.com/watch?v=pcKY4hjDrxk,Module 7: Branch and Bound,12th,English/Hindi
+344,Computer Science Engineering,Algorithms,,5.2 Articulation Point and Biconnected Components,https://www.youtube.com/watch?v=jFZsDDB0-vo,Module 8: NP-Completeness,12th,English/Hindi
+345,Computer Science Engineering,Algorithms,,6 Introduction to Backtracking - Brute Force Approach,https://www.youtube.com/watch?v=DKCbsiDBN6c,Module 9: String Matching Algorithms,12th,English/Hindi
+346,Computer Science Engineering,Algorithms,,6.1 N Queens Problem using Backtracking,https://www.youtube.com/watch?v=xFv_Hl4B83A,Module 9: String Matching Algorithms,12th,English/Hindi
+347,Computer Science Engineering,Algorithms,,6.2 Sum Of Subsets Problem - Backtracking,https://www.youtube.com/watch?v=kyLxTdsT8ws,Module 10: Advanced Data Structures,12th,English/Hindi
+348,Computer Science Engineering,Algorithms,,6.3 Graph Coloring Problem - Backtracking,https://www.youtube.com/watch?v=052VkKhIaQ4,Module 10: Advanced Data Structures,12th,English/Hindi
+349,Computer Science Engineering,Algorithms,,6.4 Hamiltonian Cycle - Backtracking,https://www.youtube.com/watch?v=dQr4wZCiJJ4,Module 11: Algorithm Concepts Simplified,12th,English/Hindi
+350,Computer Science Engineering,Algorithms,,7 Branch and Bound Introduction,https://www.youtube.com/watch?v=3RBNPc0_Q6g,Module 11: Algorithm Concepts Simplified,12th,English/Hindi
+351,Computer Science Engineering,Algorithms,,7.1 Job Sequencing with Deadline - Branch and Bound,https://www.youtube.com/watch?v=M7Fl_z7_J2k,Module 11: Algorithm Concepts Simplified,12th,English/Hindi
+352,Computer Science Engineering,Algorithms,,7.2 0/1 Knapsack using Branch and Bound,https://www.youtube.com/watch?v=yV1d-b_NeK8,Module 11: Algorithm Concepts Simplified,12th,English/Hindi
+353,Computer Science Engineering,Algorithms,,7.3 Traveling Salesman Problem - Branch and Bound,https://www.youtube.com/watch?v=1FEP_sNb62k,Module 11: Algorithm Concepts Simplified,12th,English/Hindi
+354,Computer Science Engineering,Algorithms,,8. NP-Hard and NP-Complete Problems,https://www.youtube.com/watch?v=e2cF8a5aAhE,Module 11: Algorithm Concepts Simplified,12th,English/Hindi
+355,Computer Science Engineering,Algorithms,,8.1 NP-Hard Graph Problem - Clique Decision Problem,https://www.youtube.com/watch?v=qZs767KQcvE,Module 11: Algorithm Concepts Simplified,12th,English/Hindi
+356,Computer Science Engineering,Algorithms,,9.1 Knuth-Morris-Pratt KMP String Matching Algorithm,https://www.youtube.com/watch?v=V5-7GzOfADQ,Module 11: Algorithm Concepts Simplified,12th,English/Hindi
+357,Computer Science Engineering,Algorithms,,9.2 Rabin-Karp String Matching Algorithm,https://www.youtube.com/watch?v=qQ8vS2btsxI,Module 11: Algorithm Concepts Simplified,12th,English/Hindi
+358,Computer Science Engineering,Algorithms,,10.1 AVL Tree - Insertion and Rotations,https://www.youtube.com/watch?v=jDM6_TnYIqE,Module 11: Algorithm Concepts Simplified,12th,English/Hindi
+359,Computer Science Engineering,Algorithms,,10.2  B Trees and B+ Trees. How they are useful in Databases,https://www.youtube.com/watch?v=aZjYr87r1b8,Module 11: Algorithm Concepts Simplified,12th,English/Hindi
+360,Computer Science Engineering,Algorithms,,Asymptotic Notations - Simplified,https://www.youtube.com/watch?v=ddsP7NecEBk,Module 11: Algorithm Concepts Simplified,12th,English/Hindi
+361,Computer Science Engineering,Algorithms,,Hashing Technique - Simplified,https://www.youtube.com/watch?v=mFY0J5W8Udk,Module 11: Algorithm Concepts Simplified,12th,English/Hindi
+362,Computer Science Engineering,Algorithms,,Shortest Path Algorithms (Dijkstra and Bellman-Ford)  - Simplified,https://www.youtube.com/watch?v=2raV0H9KqY8,Module 11: Algorithm Concepts Simplified,12th,English/Hindi
+363,Computer Science Engineering,Algorithms,,BFS DFS - Simplified,https://www.youtube.com/watch?v=kyUpc_5705s,Module 11: Algorithm Concepts Simplified,12th,English/Hindi
+364,Computer Science Engineering,Algorithms,,Tower of Hanoi Problem - Made Easy,https://www.youtube.com/watch?v=q6RicK1FCUs,Module 11: Algorithm Concepts Simplified,12th,English/Hindi
+365,Computer Science Engineering,Algorithms,,Row-Major and Column-Major Mapping,https://www.youtube.com/watch?v=MJZd6uPi88E,Module 11: Algorithm Concepts Simplified,12th,English/Hindi
+366,Computer Science Engineering,Algorithms,,Merge Sort Algorithm - Hindi,https://www.youtube.com/watch?v=zXhWPrMLXGo,Module 11: Algorithm Concepts Simplified,12th,English/Hindi

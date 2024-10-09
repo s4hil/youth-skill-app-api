@@ -1,0 +1,10 @@
+Unnamed: 0,Sector,CourseName,Duration,TopicName,URL,Module,ModuleNo,Minimum Education,Language
+7437,Architecture,Software Architecture and Design,19hrs 12min,Getting the Basics - Software Architecture Introduction (part 1),https://www.youtube.com/watch?v=8UlLgOf20Ho,Module 1: Introduction to Software Architecture,1,12th,English/Hindi
+7438,Architecture,Software Architecture and Design,,Scaling Distributed Systems - Software Architecture Introduction (part 2),https://www.youtube.com/watch?v=gxfERVP18-g,Module 1: Introduction to Software Architecture,1,12th,English/Hindi
+7439,Architecture,Software Architecture and Design,,Distributed Cache explained - Software Architecture Introduction (part 3),https://www.youtube.com/watch?v=QBMTGngjWdU,Module 1: Introduction to Software Architecture,1,12th,English/Hindi
+7440,Architecture,Software Architecture and Design,,What is Event Driven Architecture? (EDA - part 1),https://www.youtube.com/watch?v=DQ5Cbt8DQbM,Module 2: Event Driven Architecture,2,12th,English/Hindi
+7441,Architecture,Software Architecture and Design,,The Saga Pattern in Microservices (EDA - part 2),https://www.youtube.com/watch?v=C0rGwyJkDTU,Module 2: Event Driven Architecture,2,12th,English/Hindi
+7442,Architecture,Software Architecture and Design,,What is Event Sourcing and CQRS? (EDA - part 3),https://www.youtube.com/watch?v=i2eVTk2Fb40,Module 2: Event Driven Architecture,2,12th,English/Hindi
+7443,Architecture,Software Architecture and Design,,What is Service Discovery?,https://www.youtube.com/watch?v=v4u7m2Im7ng,Module 3: Microservices and Distributed Systems,3,12th,English/Hindi
+7444,Architecture,Software Architecture and Design,,Microservices Security Architecture  (+ Cybersecurity basics),https://www.youtube.com/watch?v=m438IXxaQJ4,Module 3: Microservices and Distributed Systems,3,12th,English/Hindi
+7445,Architecture,Software Architecture and Design,,Distributed Systems Design Introduction (Concepts & Challenges),https://www.youtube.com/watch?v=Sa_gJwB55jY,Module 3: Microservices and Distributed Systems,3,12th,English/Hindi
